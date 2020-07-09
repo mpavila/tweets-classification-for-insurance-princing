@@ -1,0 +1,6 @@
+Healthy
+Non-healthy
+Practice_sports
+Positive
+Negative 
+Other
